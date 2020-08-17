@@ -1,6 +1,4 @@
 # Car Rental WebApp
-## Student: CHETTA COSIMO 
-
 
 ![Screenshot](./img/configurator.PNG)
 
