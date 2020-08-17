@@ -1,0 +1,21 @@
+/* Global */
+.vheight-100 {
+    min-height: 100vh;
+}
+
+.below-nav {
+    padding-top: 5rem;
+}
+
+
+/* Login page */
+.login-bg {
+    background: url("https://www.erieinsurance.com/-/media/images/blog/articlephotos/2018/rentalcarlg.ashx");
+    background-position: left -50px;
+    background-repeat: no-repeat;
+}
+
+.login-content-position {
+    margin: auto;
+    max-width: 1200px;
+}
