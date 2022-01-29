@@ -15,7 +15,7 @@
     "express-jwt": "^5.3.3",
     "moment": "^2.26.0",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.15",
     "sqlite3": "^4.2.0"
   }
 }
