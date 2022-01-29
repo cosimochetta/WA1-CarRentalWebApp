@@ -1,7 +1,5 @@
 # Car Rental WebApp
 
-![Screenshot](./img/configurator.PNG)
-
 ## Introduction
 
 Built with React, this WebApp application allows you to rent vehicles
@@ -12,9 +10,8 @@ can set parameters for their new rental. The vehicle is choosen randomly
 from all avaible ones that meet the parameters.
 They payment is not fully implemented and supported by a stub API.
 
-
 ## Setup
-To run the project:
+Check it live [here](https://car-rental-05079.herokuapp.com/) or set it up locally
 
 ```
 clone it
